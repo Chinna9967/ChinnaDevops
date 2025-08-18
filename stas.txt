@@ -1,0 +1,3 @@
+Each time you run git stash, your changes are saved on top of a "stack".
+
+The most recent stash is on top, and you can apply or drop stashes from the top down, or pick a specific one from the list.

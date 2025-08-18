@@ -1,0 +1,4 @@
+Keep the first line short (50 characters or less).
+Use the imperative mood (e.g., "Add feature" not "Added feature").
+Leave a blank line after the summary, then add more details if needed.
+Describe why the change was made, not just what changed.
